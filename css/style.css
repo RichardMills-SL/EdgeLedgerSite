@@ -103,6 +103,14 @@ p {
     border-bottom: #444 dotted 1px;
 }
 
+a:link {
+    color: pink;
+}
+
+a:hover {
+    color: #93cb52;
+}
+
 /* Navbar */
 #navbar {
     display: flex;
@@ -188,6 +196,7 @@ p {
     background: url('../img/logos/logo2-brett-jordan-2746823.jpg') 
     no-repeat center center/cover;
 }
+
 
 /* Clients */
 
